@@ -1,0 +1,3 @@
+Compile com: gcc -Wall -pedantic -o run.exe *.c
+As vezes precisa do -lm no fim do comando: gcc -Wall -pedantic -o run.exe *.c -lm
+Execute: ./run qnt_pecas 

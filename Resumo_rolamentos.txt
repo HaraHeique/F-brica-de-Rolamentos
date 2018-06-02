@@ -1,0 +1,5 @@
+Tipo rolamento     Nº pecas    Tempo medio construcao
+Cilindrico         465625           3.27
+Conico             523738           5.69
+Esferico Aco       1126306           2.90
+Esferico Titanio   125145           5.88
