@@ -11,10 +11,10 @@
 #define NFILAS_MAQ 3 
 
 //Quantidade de máquinas totais de cada tipo a fábrica dispõe a usar
-//2 Tornos, 1 fresa e mandril
-#define NT_TORNO 100
-#define NT_FRESA 100
-#define NT_MANDRIL 100
+//2 Tornos, 1 fresa e mandril, mas pode ser mais se quiser basta mudar os valores das constantes
+#define NT_TORNO 2
+#define NT_FRESA 1
+#define NT_MANDRIL 1
 
 
 //Indicam quantas máquinas estão sendo usadas no momento
